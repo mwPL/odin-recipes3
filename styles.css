@@ -1,0 +1,41 @@
+* {
+    background-color: #ffffcc;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.homepage li {
+    list-style: none;
+    font-size: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+ul {
+    
+    text-align: left;
+    display: inline-block;
+}
+
+ol {
+    text-align: left;
+    display: inline-block;
+}
+
+li {
+    text-align: left;
+}
+
+.ingredients {
+    text-align: center;
+    border: black;
+    border-style: dashed;
+    
+
+}
